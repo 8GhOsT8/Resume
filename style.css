@@ -1,0 +1,79 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.6;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    background-color: #deffff;
+}
+
+
+.sz{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    background: white;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 13px 15px 10px 0px rgba(0, 0, 0, 0.1);;
+}
+
+.bg{
+    background-color: black;
+    height: 3px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+header{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h1, h2, p{
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+
+.resume-table {
+    width: 95%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    margin-top: 3px;
+    margin-right: 2.5%;
+    margin-left: 2.5%;
+}
+
+.resume-table th, .resume-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.resume-table th {
+    background-color: #deffff;
+    font-weight: bold;
+}
+
+.resume-table a {
+    color: #1a73e8;
+    text-decoration: none;
+}
+
+.text {
+    width: 95%;
+    margin-top: 3px;
+    margin-right: 2.5%;
+    margin-left: 2.5%;
+}
+
+.text h3, p, li{
+    margin-left: 20px;
+}
+
+.text h2{
+    background-color: #deffff;
+}
